@@ -13,3 +13,8 @@ SOFTWARE
 - Control algorithm: PID controller
 - Language: C++
 - Loop frequency: 20 kHz
+
+CHASSIS 
+- Material: ABS Plastic 
+- Weight: < 1kg
+- Max Width: 30cm
