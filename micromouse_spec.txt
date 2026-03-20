@@ -1,0 +1,15 @@
+Mouse Robot - Component Specification
+
+DRIVE SYSTEM
+- Motors: DC motors x2
+- Battery: Rechargeable AA batteries
+
+LOGIC SYSTEM
+- Microcontroller: Arduino Nano
+- Power supply: 9V battery x2
+- Sensor: Inductor
+
+SOFTWARE
+- Control algorithm: PID controller
+- Language: C++
+- Loop frequency: 20 kHz
